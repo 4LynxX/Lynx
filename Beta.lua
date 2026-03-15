@@ -6,7 +6,8 @@ local games = {
     [7326934954]      = "https://raw.githubusercontent.com/4LynxX/all_Game/refs/heads/main/99_nitf.lua",
     [8316902627]      = "https://raw.githubusercontent.com/4LynxX/all_Game/refs/heads/main/pvb.lua",
     [9721900284]      = "https://raw.githubusercontent.com/4LynxX/all_Game/refs/heads/main/fishzar.lua",
-    [9546331833]      = "https://raw.githubusercontent.com/4LynxX/all_Game/refs/heads/main/SambungKata.lua"
+    [9546331833]      = "https://raw.githubusercontent.com/4LynxX/all_Game/refs/heads/main/SambungKata.lua",
+    [6739698191]      = "https://raw.githubusercontent.com/4LynxX/all_Game/refs/heads/main/vd.lua,
 }
 
 local universeId = game.GameId
