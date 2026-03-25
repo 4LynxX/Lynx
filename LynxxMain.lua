@@ -8,7 +8,8 @@ local games = {
     [9721900284]      = "https://raw.githubusercontent.com/4LynxX/all_Game/refs/heads/main/fishzar.lua",
     [9546331833]      = "https://raw.githubusercontent.com/4LynxX/all_Game/refs/heads/main/SambungKata.lua",
     [6739698191]      = "https://raw.githubusercontent.com/4LynxX/all_Game/refs/heads/main/vd.lua",
-    [9465913467]      = "https://raw.githubusercontent.com/4LynxX/all_Game/refs/heads/main/is.lua"
+    [9465913467]      = "https://raw.githubusercontent.com/4LynxX/all_Game/refs/heads/main/is.lua",
+    [994732206]       = "https://raw.githubusercontent.com/4LynxX/all_Game/refs/heads/main/BloxFruit.lua"
 }
 
 local universeId = game.GameId
