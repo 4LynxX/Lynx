@@ -5,6 +5,7 @@ local games = {
     [6739698191]      = "https://raw.githubusercontent.com/4LynxX/Game-list/refs/heads/main/violence-district.lua",
     [10563114921]     = "https://raw.githubusercontent.com/4LynxX/Game-list/refs/heads/main/steal-an-egg.lua",
     [10035204815]     = "https://raw.githubusercontent.com/4LynxX/Game-list/refs/heads/main/rideapet.lua",
+    [10765288803]     = "https://raw.githubusercontent.com/4LynxX/Game-list/refs/heads/main/bsae.lua",
 }
 local universeId = game.GameId
 local placeId    = game.PlaceId
